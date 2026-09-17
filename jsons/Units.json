@@ -4,13 +4,13 @@
 		"unitType": "Melee",
 		"uniqueTo": "Holy Empire",
 		"replaces": "Warrior",
-		"movement": 2,
+		"movement": 3,
 		"strength": 10,
 		"cost": 35,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
 		"uniques": [
-			"Earns [200]% of killed Synthetic Uniques' [Strength] as [Faith]"
+			"[150]% of killed unit's Strength is added to Faith"
 		],
 		"attackSound": "metalhit"
 	}
