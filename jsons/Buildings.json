@@ -1,17 +1,18 @@
 [
 	{
-		"name": "Tu sĩ chiến",
-		"unitType": "Melee",
+		"name": "Chapel",
+		"replaces": "Granary",
 		"uniqueTo": "Holy Empire",
-		"replaces": "Warrior",
-		"movement": 2,
-		"strength": 10,
-		"cost": 40,
-		"obsoleteTech": "Metal Casting",
-		"upgradesTo": "Swordsman",
+		"cost": 70,
+		"food": 3,
+		"happiness": 2,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
 		"uniques": [
-			"Earns [150]% of killed Synthetic Uniques' [Strength] as [Faith]"
-		],
-		"attackSound": "metalhit"
+			"Destroyed when the city is captured",
+			"+1 Food from [Wheat]",
+			"+1 Food from [Bananas]",
+			"+1 Food from [Deer]"
+		]
 	}
 ]
