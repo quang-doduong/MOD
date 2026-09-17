@@ -1,12 +1,12 @@
 [
 	{
 		"name": "Holy Empire",
-		"leaderName": "God Emperor",
+		"leaderName": "Hoàng Thái Cực",
 		"adjective": ["Holy"],
 		"startBias": ["Grassland"],
-		"preferredVictoryType": "Religious",
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "Ta là kẻ được mặc khải của Đấng Tối Cao!",
+		"startIntroPart1": "Trẫm là Thiên Tử!",
 		"startIntroPart2": "Dưới ánh sáng của thần linh, Đế chế sẽ chinh phục mọi vùng đất.",
 		
 		"declaringWar": "Sự khao khát thần thánh yêu cầu chúng ta phải thanh tẩy các người!",
