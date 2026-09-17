@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Holy Empire",
+		"name": "Thần Quốc",
 		"leaderName": "Hoàng Thái Cực",
 		"adjective": ["Holy"],
 		"startBias": ["Grassland"],
@@ -20,7 +20,7 @@
 		"denounced": "Lời nói của kẻ vô thần không có giá trị.",
 		"declaringfriendship": "Hãy cùng bước đi dưới ánh sáng tôn giáo!",
 
-		"outerColor": [255, 215, 0],
+		"outerColor": [171, 145, 5],
 		"innerColor": [255, 255, 255],
 		
 		"uniques": [
