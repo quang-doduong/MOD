@@ -10,9 +10,9 @@
 		"requiredTech": "Pottery",
 		"uniques": [
 			"Destroyed when the city is captured",
-			"+1 Food from [Wheat] tiles",
-			"+1 Food from [Bananas] tiles",
-			"+1 Food from [Deer] tiles"
+			"[+1 Food] from [Wheat] tiles",
+			"[+1 Food] from [Bananas] tiles",
+			"[+1 Food] from [Deer] tiles"
 		]
 	}
 ]
