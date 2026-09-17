@@ -24,8 +24,8 @@
 		"innerColor": [255, 255, 255],
 		
 		"uniques": [
-			"[+2] bonus beliefs when founding a religion",
-			"[+2] bonus beliefs when enhancing a religion"
+			"Allows choosing one extra belief when founding a religion",
+			"Allows choosing one extra belief when enhancing a religion"
 		],
 		
 		"cities": ["Holy Capital", "Sanctuary", "Divine Haven", "Sun Spire", "Grace City"]
