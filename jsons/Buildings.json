@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Divine Warrior",
+		"name": "Tu sĩ chiến",
 		"unitType": "Melee",
 		"uniqueTo": "Holy Empire",
 		"replaces": "Warrior",
@@ -10,7 +10,7 @@
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
 		"uniques": [
-			"Earns [200]% of killed Synthetic Uniques' [Strength] as [Faith]"
+			"Earns [150]% of killed Synthetic Uniques' [Strength] as [Faith]"
 		],
 		"attackSound": "metalhit"
 	}
